@@ -1,0 +1,3 @@
+this is my frst projext
+or step to learn git hub and its reporotiry 
+which basically means a folder in github
